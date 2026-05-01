@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="supabase_url">https://jngqzbroftbvuhxwfgrl.supabase.co</string>
+    <string name="supabase_anon_key">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpuZ3F6YnJvZnRidnVoeHdmZ3JsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcxNjU1MTYsImV4cCI6MjA5Mjc0MTUxNn0.BAiB5hkZC6e0ZmV48iRi7ChEDv_f66PlLLBBPIt2-Z0</string>
+</resources>
